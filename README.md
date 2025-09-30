@@ -11,3 +11,6 @@ This repository contains my first data analysis projects (Excel, SQL, Python, Po
 ### Screenshot
 ![Dashboard](Excel/Pivot_superstore.png)
 
+### Screenshot
+![Dashboard](Excel/Top5ProductsbySales.png)
+
